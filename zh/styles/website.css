@@ -1,5 +1,7 @@
 .navigation {
   top: 90px;
+  border:1px solid #dddddd;
+  width:100%;
 }
 .book-summary nav.autoshow a,
 .book-summary nav.autoshow a:hover {
